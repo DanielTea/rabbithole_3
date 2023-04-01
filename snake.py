@@ -1,0 +1,11 @@
+sank1 = state;
+sank2 = state;
+sank3 = state;
+sank4 = state;
+sank5 = state;
+sank6 = state;
+sank7 = state;
+sank8 = state;
+sank9 = state;
+sank10 = sank9 + 3;
+interface('state', 'stat', state, state, state, state, state);
